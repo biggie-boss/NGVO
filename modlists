@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "NGVO",
+    "description": "A comprehensive visual baseline for you to build off of, featuring the absolute best visual overhauls currently available all in a low-plugin count package.",
+    "author": "Biggie_Boss",
+    "maintainers": [
+      "github/biggie-boss"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Visual Only",
+      "Special Edition",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1716381288-521170744.png",
+      "readme": "https://github.com/biggie-boss/NGVO",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_8c250566-3242-49d8-9139-1bf205e6537e",
+      "machineURL": "NGVO",
+      "discordURL": "https://discord.gg/Tb5ETzBYjd"
+    },
+    "download_metadata": {
+      "Hash": "cTq7C7quHDY=",
+      "Size": 1380752534,
+      "NumberOfArchives": 1411,
+      "SizeOfArchives": 120127068108,
+      "NumberOfInstalledFiles": 133075,
+      "SizeOfInstalledFiles": 160829192041
+    },
+    "version": "1.2"
+  }
+]
