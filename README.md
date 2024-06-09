@@ -136,14 +136,6 @@ NGVO utilizes a Wabbajack technology called Stock Game. What this essentially do
 NGVO also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
-### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
-
-**If you do not have an RTX Graphics Card it is CRUCIAL that you DISABLE the DLAA mod located towards the bottom of the load order.**
-
-NGVO comes with several list customization options. There is ultrawide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME.
-
-If you need a boost in FPS, you can choose the performance profile from the Profile dropdown in MO2.
-
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
 
 ### Starting up the list
