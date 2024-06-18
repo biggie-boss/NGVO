@@ -153,9 +153,7 @@ You are welcome to change any others to achieve your desired setup.
 
 If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
 
-"Crashing" on loading isn't actual crashing. It's the save loader mod exiting the game completely and reloading. It does this to ensure games are safe for long playthroughs.You can disable this in Optional - Gameplay but I recommend leaving it on.
-
-Wheeler can cause crashes when assigning self-made potions/poisons/etc and using your last one. If this happens, press home to open dmenu and navigate to wheeler and "reset all wheels".
+Dying and then reloading CAN cause crashes with Dyndolod DLL NG. The alternative is to disable Dyndolod DLL NG and re-run Dyndolod. This will enable Dyndolod via papyrus scripts which resolves this issue but is heavier FPS-wise and has worse lods.
  
 ## Updating the modlist
 
