@@ -31,7 +31,7 @@ Wabbajack Modlist Installer by biggie_boss.
 
 Owing to the need to clean master files and certain errors with Wabbajack, NGVO only supports **English Steam** versions of Skyrim Special Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-:warning: :exclamation: **NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 BUT WILL AUTO-DOWNGRADE TO 1.5.97** :exclamation: :warning:
+:warning: :exclamation: **NGVO REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON** :exclamation: :warning:
 
 ***
 
