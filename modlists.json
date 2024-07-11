@@ -21,21 +21,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1716381288-521170744.png",
       "readme": "https://github.com/biggie-boss/NGVO",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_2226da6b-fbe3-4f08-8d4e-3f32cebd4de7",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_a66951fb-3d2f-4cd7-b5c4-11d5dabfbefa",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "yW5l7lCJv7A=",
-      "Size": 1772764721,
+      "Hash": "XKAdAo/942w=",
+      "Size": 1773118648,
       "NumberOfArchives": 1407,
-      "SizeOfArchives": 118873769129,
-      "NumberOfInstalledFiles": 128212,
-      "SizeOfInstalledFiles": 156139806317
+      "SizeOfArchives": 118387695301,
+      "NumberOfInstalledFiles": 130744,
+      "SizeOfInstalledFiles": 156619457099
     },
-    "version": "1.7.0",
+    "version": "1.7.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-07-10T03:21:50.1654283Z",
+    "dateUpdated": "2024-07-11T13:01:44.9510621Z",
     "repositoryName": ""
   }
 ]
