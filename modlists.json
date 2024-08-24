@@ -7,9 +7,10 @@
       "github/biggie-boss"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Visual Only",
+      "Official",
       "Special Edition",
       "NeverNude"
     ],
