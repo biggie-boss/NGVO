@@ -1,6 +1,6 @@
 # NGVO - A Visual Baseline Modlist
 
-![banner image]((https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1724967916-1263394473.png))
+![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1724967916-1263394473.png)
 
 Wabbajack Modlist Installer by biggie_boss.
 
