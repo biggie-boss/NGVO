@@ -74,14 +74,12 @@ Prior to installing NGVO, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+3. Make sure your Skyrim Steam installation is updated to the latest version (1.6.1170) and set to the English language. I HIGHLY recommend not installing Steam, Skyrim nor any modlist into yur Program Files. 
 4. Fully disable OneDrive and any other programs which hook into user file areas.
-5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
-6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES** If you already verified, go to step 8. 
-8. If you get a curios or other cc error, go into your Skyrim installation folder "Steam\steamapps\common\Skyrim Special Edition\Data" and delete ALL files beginning with "cc". Then relaunch the game and re-download the 4 free creation club content. **DO NOT ALT TAB**
-9. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-10. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.** https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
+5. Launch the game to the main menu and allow it to download the free creation club addon files. **DO NOT VERIFY YOUR GAME FILES, DO NOT ALT TAB** If you already verified, go to step 6. 
+6. If you get a curios or other cc error, go into your Skyrim Steam installation "Data" folder and delete ALL files beginning with "cc". Then relaunch the game and re-download the 4 free creation club content. **DO NOT ALT TAB**
+7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+8. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.** https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
 
 ***
 
