@@ -22,13 +22,13 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1724967916-1263394473.png",
       "readme": "https://themoddingbungalo.com/ngvo/read-me",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_eb44c94a-e603-4b00-bc3e-a714ffc8bac9",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_72486117-962a-41f0-86a2-28f2e85a64e5",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "MQH3hjlljnE=",
-      "Size": 1866514948,
+      "Hash": "HRz2z2qM2xQ=",
+      "Size": 1866514873,
       "NumberOfArchives": 1422,
       "SizeOfArchives": 127227465393,
       "NumberOfInstalledFiles": 142140,
@@ -36,7 +36,7 @@
     },
     "version": "3.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-07T02:11:12.5840201Z",
+    "dateUpdated": "2025-01-07T02:16:23.2201128Z",
     "repositoryName": ""
   }
 ]
