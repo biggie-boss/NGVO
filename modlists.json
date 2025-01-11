@@ -38,5 +38,41 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-01-07T02:16:23.2201128Z",
     "repositoryName": ""
+  },
+    {
+    "title": "BASELINE",
+    "description": "A baseline list to start your own Skyrim SE/AE modded experience.",
+    "author": "Biggie_Boss",
+    "maintainers": [
+      "github/biggie-boss"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Tools",
+      "Bugfixes",
+      "Special Edition",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1736628102-2108953216.png",
+      "readme": "https://github.com/biggie-boss/BASELINE",
+      "download": "https://authored-files.wabbajack.org/Baseline.wabbajack_4e5e6d97-3d58-4a2c-a4ef-75cfe6c8046f",
+      "machineURL": "BASELINE",
+      "discordURL": "https://discord.gg/Tb5ETzBYjd"
+    },
+    "download_metadata": {
+      "Hash": "xeFtRmA3tTA=",
+      "Size": 854458338,
+      "NumberOfArchives": 300,
+      "SizeOfArchives": 17913287340,
+      "NumberOfInstalledFiles": 23943,
+      "SizeOfInstalledFiles": 22567220390
+    },
+    "version": "1.0.1"
   }
 ]
