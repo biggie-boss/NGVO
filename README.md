@@ -147,12 +147,6 @@ Make sure the dropdown box on the right is set to `NGVO` and press the `Run` but
 NGVO has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
 You are welcome to change any others to achieve your desired setup.
-
-### Known Bugs/Crashes
-
-If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
-
-Dying and then reloading CAN cause crashes with Dyndolod DLL NG. The alternative is to disable Dyndolod DLL NG and re-run Dyndolod. This will enable Dyndolod via papyrus scripts which resolves this issue but is heavier FPS-wise and has worse lods.
  
 ## Updating the modlist
 
