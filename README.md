@@ -161,6 +161,5 @@ Simply delete the folder, and you have uninstalled it.
 
 - _YOU_ for reading this.
 - Althro & Ylikollikas for answering all my questions.
-- ShadowSorcery for creating NGVO's awesome logo.
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 - All of the amazing mod authors whose work made this modlist possible.
