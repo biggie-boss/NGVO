@@ -62,21 +62,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1736628102-2108953216.png",
       "readme": "https://github.com/biggie-boss/BASELINE",
-      "download": "https://authored-files.wabbajack.org/BASELINE.wabbajack_64b8bf20-7cae-4929-bd0b-3a52b0585a37",
+      "download": "https://authored-files.wabbajack.org/BASELINE.wabbajack_ff037bd8-600f-4177-b79d-bcc8fa4ea72a",
       "machineURL": "BASELINE",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "9V69L4ZPIp8=",
-      "Size": 139061972,
-      "NumberOfArchives": 311,
-      "SizeOfArchives": 18126591940,
-      "NumberOfInstalledFiles": 24314,
-      "SizeOfInstalledFiles": 22199935321
+      "Hash": "j2s5q+tRJNQ=",
+      "Size": 139054692,
+      "NumberOfArchives": 310,
+      "SizeOfArchives": 18148839593,
+      "NumberOfInstalledFiles": 24272,
+      "SizeOfInstalledFiles": 22302885081
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-14T02:59:06.3014101Z",
+    "dateUpdated": "2025-01-19T17:30:17.4706476Z",
     "repositoryName": ""
   }
 ]
