@@ -1,7 +1,7 @@
 [
   {
     "title": "NGVO",
-    "description": "A comprehensive visual baseline for you to build off of, featuring the absolute best visual overhauls currently available all in a low-plugin count package.",
+    "description": "Next Generation Visual Overhaul (or NGVO) is a visual-only modlist for Skyrim Anniversary Edition. Containing all the latest bugfixes and visual addons, it aims to use all the cutting-edge modding technology available.",
     "author": "Biggie_Boss",
     "maintainers": [
       "github/biggie-boss"
@@ -9,74 +9,34 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Visual Only",
       "Official",
-      "Special Edition",
-      "NeverNude"
+      "Anniversary Edition",
+      "Visual-Only",
+      "Bugfixes"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1724967916-1263394473.png",
-      "readme": "https://themoddingbungalo.com/ngvo/read-me",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_0f25ceba-6752-4c75-b8e6-28117ba50fa2",
+      "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
+      "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_4bbacf74-8607-4496-987c-6ef0ad47f5a6",
       "machineURL": "NGVO",
-      "discordURL": "https://discord.gg/Tb5ETzBYjd"
+      "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "x4FB+JcTnnQ=",
-      "Size": 443531732,
-      "NumberOfArchives": 1489,
-      "SizeOfArchives": 130848687058,
-      "NumberOfInstalledFiles": 130856,
-      "SizeOfInstalledFiles": 168274217689
+      "Hash": "tGbv5CXqFhg=",
+      "Size": 451890586,
+      "NumberOfArchives": 1495,
+      "SizeOfArchives": 136374909507,
+      "NumberOfInstalledFiles": 136462,
+      "SizeOfInstalledFiles": 176196599214
     },
     "version": "4.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-14T11:56:16.3800284Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "BASELINE",
-    "description": "A baseline list to start your own Skyrim SE/AE modded experience.",
-    "author": "Biggie_Boss",
-    "maintainers": [
-      "github/biggie-boss"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Tools",
-      "Bugfixes",
-      "Special Edition",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/119972/119972-1736628102-2108953216.png",
-      "readme": "https://github.com/biggie-boss/BASELINE",
-      "download": "https://authored-files.wabbajack.org/BASELINE.wabbajack_719b9a8c-73a6-47b1-a4c0-7d88707c018a",
-      "machineURL": "BASELINE",
-      "discordURL": "https://discord.gg/Tb5ETzBYjd"
-    },
-    "download_metadata": {
-      "Hash": "DkcIjg2tUBI=",
-      "Size": 148895405,
-      "NumberOfArchives": 506,
-      "SizeOfArchives": 31357644660,
-      "NumberOfInstalledFiles": 27997,
-      "SizeOfInstalledFiles": 38077265991
-    },
-    "version": "2.0.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-07T03:36:02.6189068Z",
+    "dateUpdated": "2025-02-22T13:07:05.5803543Z",
     "repositoryName": ""
   }
 ]
