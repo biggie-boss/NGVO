@@ -22,21 +22,21 @@
     "links": {
       "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
       "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_27f074b1-984e-4ab7-9c3d-ee16a466b4fa",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_81686763-7228-48e3-8d21-3d09c6e792f6",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "7S7kO8au9cU=",
-      "Size": 460132555,
-      "NumberOfArchives": 1500,
-      "SizeOfArchives": 136662138281,
-      "NumberOfInstalledFiles": 136644,
-      "SizeOfInstalledFiles": 176886987881
+      "Hash": "6uVWBXy1ZLw=",
+      "Size": 460159976,
+      "NumberOfArchives": 1504,
+      "SizeOfArchives": 136672362952,
+      "NumberOfInstalledFiles": 136664,
+      "SizeOfInstalledFiles": 176922964068
     },
     "version": "4.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-27T02:48:05.4875002Z",
+    "dateUpdated": "2025-02-28T23:15:09.1408864Z",
     "repositoryName": ""
   }
 ]
