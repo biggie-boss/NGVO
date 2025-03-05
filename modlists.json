@@ -38,5 +38,42 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-03-02T14:52:28.1679207Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Do Not Go Gentle",
+    "description": "Do Not Go Gentle started off as a personal list that was built off of AVO-AE with Requiem. You'll see a different choice of followers than the usual, quest additions, vanilla quest tweaks/enhancements, a full combat overhaul, a religion overhaul, along with npc replacers, a full visual overhaul based on AVO-AE, and lots of character customization options.",
+    "author": "Abandoned_by_Arkay",
+    "maintainers": [
+      "github/biggie-boss"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Requiem",
+      "Anniversary Edition",
+      "Hardcore",
+      "Roleplay"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://i.imgur.com/IQXzokF.jpeg",
+      "readme": "https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/Do%20Not%20Go%20Gentle.wabbajack_a2e73e74-6a83-4253-a981-deecb55f2df7",
+      "machineURL": "DNGG",
+      "discordURL": "https://discord.gg/bungalo"
+    },
+    "download_metadata": {
+      "Hash": "bnYdQYyKP10=",
+      "Size": 362226567,
+      "NumberOfArchives": 2009,
+      "SizeOfArchives": 165949746826,
+      "NumberOfInstalledFiles": 296651,
+      "SizeOfInstalledFiles": 279792199552
+    },
+    "version": "2.8.5",
+    "repositoryName": ""
   }
 ]
