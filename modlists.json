@@ -22,21 +22,23 @@
     "links": {
       "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
       "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_77811e69-abc8-4e3b-919a-f0d807a64697",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_15e37013-13b2-4ec0-8a53-15bbef0858e9",
       "machineURL": "NGVO",
-      "discordURL": "https://discord.gg/bungalo"
+      "discordURL": "https://discord.gg/bungalo",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "4jFqGAKrk34=",
-      "Size": 1237609769,
+      "Hash": "g41HiOsS1Tc=",
+      "Size": 1245583426,
       "NumberOfArchives": 1525,
-      "SizeOfArchives": 141004478596,
-      "NumberOfInstalledFiles": 142723,
-      "SizeOfInstalledFiles": 181522595381
+      "SizeOfArchives": 140743600068,
+      "NumberOfInstalledFiles": 146493,
+      "SizeOfInstalledFiles": 181765323428,
+      "TotalSize": 322508923496
     },
-    "version": "5.0.3",
+    "version": "5.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-13T23:27:26.5238744Z",
+    "dateUpdated": "2025-03-29T15:51:30.4181035Z",
     "repositoryName": ""
   },
   {
@@ -64,7 +66,8 @@
       "readme": "https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_75adc0d0-f971-4b18-b7a4-1b82ac8ccec9",
       "machineURL": "DNGG",
-      "discordURL": "https://discord.gg/bungalo"
+      "discordURL": "https://discord.gg/bungalo",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "jT5GeFcH6Zs=",
@@ -72,7 +75,8 @@
       "NumberOfArchives": 2009,
       "SizeOfArchives": 165949746826,
       "NumberOfInstalledFiles": 296651,
-      "SizeOfInstalledFiles": 279792199543
+      "SizeOfInstalledFiles": 279792199543,
+      "TotalSize": 445741946369
     },
     "version": "2.8.5",
     "dateCreated": "1970-01-01T00:00:00Z",
