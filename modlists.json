@@ -62,7 +62,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://i.imgur.com/IQXzokF.jpeg",
+      "image": "https://imgur.com/IQXzokF",
       "readme": "https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_75adc0d0-f971-4b18-b7a4-1b82ac8ccec9",
       "machineURL": "DNGG",
@@ -108,7 +108,7 @@
       "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_8cefee64-79a8-43dd-a250-70a0d0d0fc0d",
       "machineURL": "ETERNAL",
       "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": "https://themoddingbungalo.com/"
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "z98dJO0Ty0k=",
