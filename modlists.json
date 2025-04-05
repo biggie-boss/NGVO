@@ -25,7 +25,7 @@
       "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_18827368-2c0a-43c4-8957-642b6b680cb1",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": ""
+      "websiteURL": "https://github.com/biggie-boss/NGVO/blob/main/README.md"
     },
     "download_metadata": {
       "Hash": "WLAJymKEW2s=",
@@ -81,6 +81,48 @@
     "version": "2.8.5",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-03-05T02:31:02.1240509Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Skyrim Eternal Edition",
+    "description": "Skyrim Eternal Edition is a collecting and questing focused modern Skyrim experience. With beautiful visuals, quality content addons and tons of modern mechanics, you'll be playing Skyrim for eternity.",
+    "author": "Biggie_Boss",
+    "maintainers": [
+      "github/biggie-boss"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+      "Anniversary Edition",
+      "LOTD",
+      "Quests"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://i.imgur.com/GvFP6Gk.png",
+      "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_01b8ddef-6e68-410c-92db-8a74217fe4db",
+      "machineURL": "ETERNAL",
+      "discordURL": "https://discord.gg/bungalo",
+      "websiteURL": "https://github.com/biggie-boss/NGVO/blob/main/README.md"
+    },
+    "download_metadata": {
+      "Hash": "tG2DZTG48SY=",
+      "Size": 462145719,
+      "NumberOfArchives": 2145,
+      "SizeOfArchives": 189040372344,
+      "NumberOfInstalledFiles": 253473,
+      "SizeOfInstalledFiles": 265218868325,
+      "TotalSize": 454259240669
+    },
+    "version": "1.0.0",
+    "dateCreated": "",
+    "dateUpdated": "",
     "repositoryName": ""
   }
 ]
