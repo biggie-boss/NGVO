@@ -105,19 +105,19 @@
     "links": {
       "image": "https://i.imgur.com/GvFP6Gk.png",
       "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_01b8ddef-6e68-410c-92db-8a74217fe4db",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_ded3934a-6809-463f-b9a8-adbcb81c62f2",
       "machineURL": "ETERNAL",
       "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": "https://github.com/biggie-boss/NGVO/blob/main/README.md"
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "tG2DZTG48SY=",
-      "Size": 462145719,
-      "NumberOfArchives": 2145,
-      "SizeOfArchives": 189040372344,
-      "NumberOfInstalledFiles": 253473,
-      "SizeOfInstalledFiles": 265218868325,
-      "TotalSize": 454259240669
+      "Hash": "z98dJO0Ty0k=",
+      "Size": 589742880,
+      "NumberOfArchives": 2222,
+      "SizeOfArchives": 192972568839,
+      "NumberOfInstalledFiles": 261384,
+      "SizeOfInstalledFiles": 273761934330,
+      "TotalSize": 466734503169
     },
     "version": "1.0.0",
     "dateCreated": "",
