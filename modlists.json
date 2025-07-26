@@ -18,7 +18,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
       "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
