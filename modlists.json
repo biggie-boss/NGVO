@@ -40,46 +40,6 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-03-05T02:31:02.1240509Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Skyrim Eternal Edition",
-    "description": "Skyrim Eternal Edition is a collecting and questing focused modern Skyrim experience. With beautiful visuals, quality content addons and tons of modern mechanics, you\u0027ll be playing Skyrim for eternity.",
-    "author": "Biggie_Boss",
-    "maintainers": [
-      "github/biggie-boss"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Anniversary Edition",
-      "LOTD",
-      "Quests"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1743893423-1511941662.png",
-      "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_8cefee64-79a8-43dd-a250-70a0d0d0fc0d",
-      "machineURL": "ETERNAL",
-      "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "z98dJO0Ty0k=",
-      "Size": 589742880,
-      "NumberOfArchives": 2222,
-      "SizeOfArchives": 192972568839,
-      "NumberOfInstalledFiles": 261384,
-      "SizeOfInstalledFiles": 273761934330,
-      "TotalSize": 466734503169
-    },
-    "version": "1.0.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
   }
 ]
+
